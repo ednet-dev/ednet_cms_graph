@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 
-import 'cms_graph_page/cms_graph_page_details_view.dart';
-import 'cms_graph_page/cms_graph_page_list_view.dart';
+import 'ednet_one/cms_graph_page_details_view.dart';
+import 'ednet_one/cms_graph_page_list_view.dart';
 import 'sample_feature/sample_item_details_view.dart';
 import 'sample_feature/sample_item_list_view.dart';
 import 'settings/settings_controller.dart';

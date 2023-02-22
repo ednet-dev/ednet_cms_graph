@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../settings/settings_view.dart';
-import 'cms_graph_page.dart';
+import 'ednet_one.dart';
 import 'cms_graph_page_details_view.dart';
 
 /// Displays a list of GraphPages.
